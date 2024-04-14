@@ -1,0 +1,42 @@
+* {
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  width: 100%;
+  align-items: center;
+}
+.d-flex {
+  display: flex;
+}
+.flex-direction-column {
+  flex-direction: column;
+}
+.para-color {
+  color: #64748b;
+  font-weight: 600;
+}
+.alert-notification {
+  width: 90%;
+  margin-right: 30px;
+}
+
+.notification-head-para {
+  margin-left: 20px;
+}
+.m-0 {
+  font-size: 24px;
+  margin-top: -10px;
+}
+.success-icon {
+  color: #2dca73;
+}
+.error-icon {
+  color: #ff0b37;
+}
+.warning-icon {
+  color: #ffb800;
+}
+.info-icon {
+  color: #0f81e0;
+}
